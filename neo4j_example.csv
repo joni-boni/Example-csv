@@ -1,4 +1,4 @@
-﻿Id,Name,Skill,Email
-1,Bob,Python,bob@mail
-2,Mary,Python,mary@lol
-3,Jerry,MS Office,snail@com
+Id,Name,Skills,Email
+1,Joe Smith,Cypher:Java:JavaScript,joe@neo4j.com
+2,Mary Jones,Java,mary@neo4j.com
+3,Trevor Scott,Java:JavaScript,trevor@neo4j.com
