@@ -1,4 +1,4 @@
-﻿Id,Prozess;Folgeprozess
+Id,Prozess,Folgeprozess
 1,Prozess1,Prozess2
 2,Prozess2,Prozess3
 3,Prozess3,Prozess4
